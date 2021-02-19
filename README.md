@@ -1,5 +1,6 @@
 # Horiseon Marketing
 
+Deployed at: https://gurkiratsaini.github.io/horiseon-marketing/
 ![Home Page](./assets/images/screencapture.png?raw=true)
 
 # Changelog:
@@ -25,3 +26,5 @@ Added comments in css and html.
 Consolidated css classes and updated html accordingly.
 
 Commented html with all the changes.
+
+Changed `<div>` to `<footer>` on line 84.
